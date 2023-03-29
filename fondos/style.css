@@ -1,0 +1,24 @@
+body {
+    background: url(/img/paisaje.jpg);
+    /* background: url(/img/afterlife.jpg); */
+    /* arreglas imagenes muy pequeñas para que no se repita
+    no-repeat
+    repeat-x and y */
+    /* background-repeat: repeat-y; */
+    /* background-repeat:; */
+    background-size: cover;/* si coloco 100% ocupa toda la pantalla, cover toda la pàgina
+    /* scrolear en la pàgina
+    background-attachment:
+    fixed : escrolear la pàgina y el fondo se queda pegado 
+    scroll*/
+    background-attachment: fixed;
+    /* modificar posicion de fondo
+        background-position:y,x ;
+ */
+    /* background-position: center center;centrar fondo */
+}
+
+.container{
+
+    color: white;
+}
