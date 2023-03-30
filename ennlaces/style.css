@@ -1,0 +1,30 @@
+a{
+    font-size: 60px;
+    text-decoration: none;
+}
+/* pseudoclases 
+dar estilos dependiendo del estado del elemento
+*/
+/* a:hover{
+    background: aqua;
+    color: rgb(228, 34, 164);
+} */
+
+/* enlaces que no han sido visitados */
+a:link{
+    text-decoration: none;
+    /* color: red; */
+
+}
+
+/* enlaces que han sido visitados */
+
+a:visited{
+    /* color:#ccc; */
+}
+
+/* estado mientras se hace un click */
+a:active{
+    text-decoration: underline;
+    color: yellow;
+}
