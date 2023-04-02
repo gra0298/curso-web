@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.articulo {
+  background: #2398e1;
+  padding: 20px; }
+  .articulo .titulo {
+    background-color: #e4a464;
+    border-color: crimson;
+    box-shadow: chartreuse; }
+
+/*# sourceMappingURL=style.css.map */

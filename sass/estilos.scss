@@ -1,0 +1,18 @@
+$azul:rgb(35, 152, 225);
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.articulo{
+    background: $azul;
+    padding: 20px;
+    
+
+    .titulo{
+        background-color: rgb(228, 164, 100);
+        border-color: crimson;
+        box-shadow: chartreuse;
+    }
+}
